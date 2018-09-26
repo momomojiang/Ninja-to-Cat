@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	outline: 1px dotted red;
+}
+#container{
+	height: 1000px;
+	width: 970px;
+	background-color: pink;
+
+}
+img{
+	display: block;
+	margin: 3px;
+
+}
